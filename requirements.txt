@@ -70,7 +70,6 @@ click-plugins==1.1.1
 colorama==0.4.6
 constantly==15.1.0
 contourpy==1.0.7
-crackmapexec==5.4.0
 cryptography==40.0.2
 cupshelpers==1.0
 cycler==0.11.0
