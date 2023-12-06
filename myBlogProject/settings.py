@@ -181,3 +181,4 @@ EMAIL_BACKEND = "django.core.mail.backends.console.EmailBackend"
 # EMAIL_USE_TLS = True
 # EMAIL_HOST_USER = "smuse1756@gmail.com"
 # EMAIL_HOST_PASSWORD = 'muse@gmail'
+STATIC_ROOT = 'staticfiles'
